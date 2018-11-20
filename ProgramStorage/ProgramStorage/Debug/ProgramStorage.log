@@ -1,0 +1,5 @@
+﻿  ProgramStorage.cpp
+c:\users\user\source\repos\programstorage\programstorage\programstorage.cpp(71): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\programstorage\programstorage\programstorage.cpp(101): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\user\source\repos\programstorage\programstorage\programstorage.cpp(125): warning C4018: <: несоответствие типов со знаком и без знака
+  ProgramStorage.vcxproj -> C:\Users\User\source\repos\ProgramStorage\Debug\ProgramStorage.exe
